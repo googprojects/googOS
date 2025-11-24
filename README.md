@@ -19,7 +19,6 @@ a shitty operating system coded entirely in assembly, got some basic features bu
 Current features:
 - Simple commands (list, delete, edit, cat)
 - 3 games (Guessing game, Snake, Ping Pong (co-op))
-- Networking (Ping, Curl)
 - & More!
 ```
 
